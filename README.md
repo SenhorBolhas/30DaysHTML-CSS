@@ -11,4 +11,4 @@ DAY 4 - Responsive Card + Hover Effects: ![image](https://user-images.githubuser
 
 DAY 5 - Image Hover Button: ![image](https://user-images.githubusercontent.com/32843196/132919591-ce05741e-af15-4bf8-9f0a-afff3600af12.png)
 
-DAY 6 - Simple Search Bar: ![image](https://user-images.githubusercontent.com/32843196/133163226-e69ed51f-208c-4751-a1a3-34b46f0999c0.png)
+DAY 6 - Simple Search Bar, based on Ines Montani code: ![image](https://user-images.githubusercontent.com/32843196/133163226-e69ed51f-208c-4751-a1a3-34b46f0999c0.png)
