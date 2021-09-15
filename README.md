@@ -14,3 +14,8 @@ DAY 5 - Image Hover Button: ![image](https://user-images.githubusercontent.com/3
 DAY 6 - Simple Search Bar, based on Ines Montani code: ![image](https://user-images.githubusercontent.com/32843196/133163226-e69ed51f-208c-4751-a1a3-34b46f0999c0.png)
 
 DAY 7 - Animated Search Bar, based on Abhishek Dana code: ![image](https://user-images.githubusercontent.com/32843196/133343311-a736bd4d-c027-418f-8244-5fab5f907341.png)
+
+DAY 8 - Toggle Button, based on coder787 code: ![image](https://user-images.githubusercontent.com/32843196/133518964-a7f88f31-596d-46de-8157-6e519666fd56.png)
+![image](https://user-images.githubusercontent.com/32843196/133518983-65388e98-7932-4cd8-b4bb-f0a572d4179a.png)
+
+
